@@ -5,13 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Python+%7C+Bash+%7C+Linux+Explorer;Learning+in+Public;Let's+Connect+%F0%9F%91%8B" alt="Typing animation" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bla573&label=Profile%20views&color=0e75b6&style=flat" alt="bla573" /> </p>
+---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bla573" alt="bla573" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **Building a prompt database app for AI-generated images**
 
