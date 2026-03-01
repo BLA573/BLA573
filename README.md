@@ -20,7 +20,7 @@
 - 💬 Ask me about **Why I chose cybersecurity, My progress in learning ethical hacking, Productivity systems I use to stay on track**
 
 - 📫 How to reach me **hailemichaelsolomon176@gmail.com**  
-- 💬 Telegram: [@BLA573](https://t.me/haile_sec)
+- 💬 Telegram: [@haile_sec](https://t.me/haile_sec)
 
 ---
 
